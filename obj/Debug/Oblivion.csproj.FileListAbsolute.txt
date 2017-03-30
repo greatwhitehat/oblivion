@@ -1,0 +1,15 @@
+D:\3.Dev\C#\OblivionX\OblivionX\obj\Debug\Oblivion.csprojResolveAssemblyReference.cache
+D:\3.Dev\C#\OblivionX\OblivionX\obj\Debug\OblivionX.exe
+D:\3.Dev\C#\OblivionX\OblivionX\obj\Debug\OblivionX.pdb
+D:\3.Dev\C#\OblivionX\OblivionX\bin\Debug\OblivionX.exe
+D:\3.Dev\C#\OblivionX\OblivionX\bin\Debug\OblivionX.pdb
+\\tse.local\tsefile\Homekna\jj2150\Documents\Documents\3.Dev\C#\OblivionX\OblivionX\obj\Debug\OblivionX.exe
+\\tse.local\tsefile\Homekna\jj2150\Documents\Documents\3.Dev\C#\OblivionX\OblivionX\obj\Debug\OblivionX.pdb
+\\tse.local\tsefile\Homekna\jj2150\Documents\Documents\3.Dev\C#\OblivionX\OblivionX\bin\Debug\OblivionX.exe
+\\tse.local\tsefile\Homekna\jj2150\Documents\Documents\3.Dev\C#\OblivionX\OblivionX\bin\Debug\OblivionX.pdb
+\\tse.local\tsefile\Homekna\jj2150\Documents\Documents\3.Dev\C#\OblivionX\OblivionX\obj\Debug\Oblivion.csprojResolveAssemblyReference.cache
+G:\0.Development\csharp\cs_oblivionx\OblivionX\obj\Debug\Oblivion.csprojResolveAssemblyReference.cache
+G:\0.Development\csharp\cs_oblivionx\OblivionX\bin\Debug\Oblivion.exe
+G:\0.Development\csharp\cs_oblivionx\OblivionX\bin\Debug\Oblivion.pdb
+G:\0.Development\csharp\cs_oblivionx\OblivionX\obj\Debug\Oblivion.exe
+G:\0.Development\csharp\cs_oblivionx\OblivionX\obj\Debug\Oblivion.pdb
